@@ -1,0 +1,401 @@
+name,mean_counts,genre,cluster
+Death Note,0.6275787187839305,"Mystery, Police, Psychological, Supernatural, Thriller",0
+Code Geass: Hangyaku no Lelouch,0.6243213897937026,"Action, Mecha, Military, School, Sci-Fi, Super Power",0
+Sen to Chihiro no Kamikakushi,0.5868017854988539,"Adventure, Drama, Supernatural",0
+Code Geass: Hangyaku no Lelouch R2,0.5636385571238991,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",0
+Tengen Toppa Gurren Lagann,0.5196042948485945,"Action, Adventure, Comedy, Mecha, Sci-Fi",0
+Cowboy Bebop,0.5174327421884425,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",0
+Fullmetal Alchemist,0.5156231149716491,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",0
+Fullmetal Alchemist: Brotherhood,0.5068162625165883,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",0
+Mononoke Hime,0.5046447098564363,"Action, Adventure, Fantasy",0
+Neon Genesis Evangelion,0.48558330317287973,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",0
+Suzumiya Haruhi no Yuuutsu,0.47038243455181566,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",0
+Howl no Ugoku Shiro,0.4659186874170588,"Adventure, Drama, Fantasy, Romance",0
+Toki wo Kakeru Shoujo,0.43877427916515865,"Adventure, Drama, Romance, Sci-Fi",0
+Samurai Champloo,0.43189769574134396,"Action, Adventure, Comedy, Historical, Samurai, Shounen",0
+Toradora!,0.42586560501869947,"Comedy, Romance, School, Slice of Life",0
+Elfen Lied,0.41959223066714924,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",0
+Darker than Black: Kuro no Keiyakusha,0.39667028592110026,"Action, Mystery, Sci-Fi, Super Power",0
+Steins;Gate,0.3891904934250211,"Sci-Fi, Thriller",0
+Clannad,0.38762214983713356,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",0
+Baccano!,0.3791772228254313,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",0
+Durarara!!,0.37519604294848596,"Action, Mystery, Supernatural",0
+Clannad: After Story,0.36590662323561346,"Drama, Fantasy, Romance, Slice of Life, Supernatural",0
+Black Lagoon,0.3643382796477259,"Action, Seinen",0
+FLCL,0.36180480154421524,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",0
+Byousoku 5 Centimeter,0.3584268307395343,"Drama, Romance, Slice of Life",0
+Mahou Shoujo Madoka★Magica,0.3464832911086983,"Drama, Magic, Psychological, Thriller",0
+Bakemonogatari,0.3408131258294125,"Mystery, Romance, Supernatural, Vampire",0
+Ouran Koukou Host Club,0.3385209313548076,"Comedy, Harem, Romance, School, Shoujo",0
+Trigun,0.3361080950657498,"Action, Comedy, Sci-Fi",0
+Angel Beats!,0.3352636023645796,"Action, Comedy, Drama, School, Supernatural",0
+NHK ni Youkoso!,0.3316443479309929,"Comedy, Drama, Psychological, Romance",0
+Neon Genesis Evangelion: The End of Evangelion,0.33092049704427556,"Dementia, Drama, Mecha, Psychological, Sci-Fi",0
+Great Teacher Onizuka,0.3270599589817831,"Comedy, Drama, School, Shounen, Slice of Life",0
+Higurashi no Naku Koro ni,0.3266980335384244,"Horror, Mystery, Psychological, Supernatural, Thriller",0
+Tonari no Totoro,0.3258535408372542,"Adventure, Comedy, Supernatural",0
+Ookami to Koushinryou,0.32307877910483773,"Adventure, Fantasy, Historical, Romance",0
+Black Lagoon: The Second Barrage,0.31620219568102303,"Action, Seinen",0
+Higashi no Eden,0.30401737242128124,"Action, Comedy, Drama, Mystery, Romance, Sci-Fi, Thriller",0
+Shingeki no Kyojin,0.30184581976112923,"Action, Drama, Fantasy, Shounen, Super Power",0
+Ghost in the Shell,0.29931234165761855,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen",0
+Soul Eater,0.29774399806973095,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",0
+Full Metal Panic? Fumoffu,0.29605501266739054,"Action, Comedy, School",0
+Akira,0.2901435637591989,"Action, Adventure, Horror, Military, Sci-Fi, Supernatural",0
+Summer Wars,0.28700687658342383,"Comedy, Sci-Fi",0
+Evangelion: 1.0 You Are (Not) Alone,0.28531789118108336,"Action, Mecha, Sci-Fi",0
+Full Metal Panic!,0.28447339847991315,"Action, Comedy, Mecha, Military, Sci-Fi",0
+Mushishi,0.2810954276752322,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",0
+Cowboy Bebop: Tengoku no Tobira,0.274822053323682,"Action, Drama, Mystery, Sci-Fi, Space",0
+Suzumiya Haruhi no Shoushitsu,0.2747014115092291,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",0
+Evangelion: 2.0 You Can (Not) Advance,0.2703583061889251,"Action, Mecha, Sci-Fi",0
+Lucky☆Star,0.2673422608276029,"Comedy, Parody, School, Slice of Life",0
+Hotaru no Haka,0.26613584268307394,"Drama, Historical",0
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,0.2648087827240922,"Drama, Slice of Life, Supernatural",0
+Kaze no Tani no Nausicaä,0.26191337917722285,"Adventure, Fantasy",0
+K-On!,0.2599831101459766,"Comedy, Music, School, Slice of Life",0
+Claymore,0.25937990107371217,"Action, Adventure, Demons, Fantasy, Shounen, Super Power, Supernatural",0
+Fate/Zero,0.25503679575340815,"Action, Fantasy, Supernatural",0
+Higurashi no Naku Koro ni Kai,0.25455422849559656,"Mystery, Psychological, Supernatural, Thriller",0
+Paprika,0.24719507781397032,"Fantasy, Horror, Mystery, Psychological, Sci-Fi, Thriller",0
+Full Metal Panic! The Second Raid,0.24574737604053565,"Action, Mecha, Military",0
+Ergo Proxy,0.24562673422608275,"Mystery, Psychological, Sci-Fi",0
+Ghost in the Shell: Stand Alone Complex,0.24442031608155387,"Action, Mecha, Military, Police, Sci-Fi, Seinen",0
+Fate/stay night,0.24309325612257207,"Action, Fantasy, Magic, Romance, Supernatural",0
+Tenkuu no Shiro Laputa,0.2406804198335143,"Adventure, Fantasy, Romance, Sci-Fi",0
+Hellsing,0.2348896127397756,"Action, Horror, Seinen, Supernatural, Vampire",0
+Fullmetal Alchemist: The Conqueror of Shamballa,0.23464832911086983,"Comedy, Drama, Fantasy, Historical, Military, Shounen",0
+Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,0.2327180600796236,"Action, Drama, Historical, Martial Arts, Romance, Samurai",0
+Eureka Seven,0.22560019302690312,"Adventure, Drama, Mecha, Romance, Sci-Fi",0
+Ookami to Koushinryou II,0.22198093859331644,"Adventure, Fantasy, Historical, Romance",0
+Majo no Takkyuubin,0.22077452044878754,"Adventure, Comedy, Drama, Fantasy, Magic, Romance",0
+Dragon Ball Z,0.220291953190976,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",0
+Final Fantasy VII: Advent Children,0.21787911690191822,"Action, Fantasy, Super Power",0
+Fate/Zero 2nd Season,0.21715526601520088,"Action, Fantasy, Supernatural, Thriller",0
+Berserk,0.2135360115816142,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Romance, Seinen, Supernatural",0
+Sayonara Zetsubou Sensei,0.21051996622029195,"Comedy, Parody, School",0
+Psycho-Pass,0.20991675714802752,"Action, Police, Psychological, Sci-Fi",0
+Rurouni Kenshin: Meiji Kenkaku Romantan,0.20907226444685728,"Action, Adventure, Comedy, Historical, Romance, Samurai",0
+Azumanga Daioh,0.2075039208589697,"Comedy, School, Slice of Life",0
+Serial Experiments Lain,0.20304017372421282,"Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural",0
+Beck,0.20002412836289057,"Comedy, Drama, Music, Shounen, Slice of Life",0
+Kara no Kyoukai 5: Mujun Rasen,0.198455784775003,"Action, Drama, Mystery, Romance, Supernatural, Thriller",0
+Chobits,0.1976112920738328,"Comedy, Drama, Ecchi, Romance, Sci-Fi, Seinen",0
+Kara no Kyoukai 1: Fukan Fuukei,0.19459524671251055,"Action, Mystery, Supernatural, Thriller",0
+"Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",0.19459524671251055,"Drama, Romance, School, Slice of Life",0
+Kara no Kyoukai 3: Tsuukaku Zanryuu,0.19447460489805768,"Action, Drama, Mystery, Supernatural, Thriller",0
+Naruto,0.19363011219688744,"Action, Comedy, Martial Arts, Shounen, Super Power",0
+Nodame Cantabile,0.19338882856798167,"Comedy, Drama, Josei, Music, Romance, Slice of Life",0
+Highschool of the Dead,0.19314754493907588,"Action, Ecchi, Horror, Supernatural",0
+Lovely★Complex,0.19157920135118833,"Comedy, Romance, Shoujo",0
+Shakugan no Shana,0.19109663409337677,"Action, Drama, Fantasy, Romance, School, Supernatural",0
+School Rumble,0.1907347086500181,"Comedy, Romance, School, Shounen",0
+Usagi Drop,0.19049342502111233,"Josei, Slice of Life",0
+Dragon Ball,0.19025214139220653,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",0
+Kanon (2006),0.19001085776330076,"Drama, Romance, Slice of Life, Supernatural",0
+Kara no Kyoukai 2: Satsujin Kousatsu (Zen),0.1884425141754132,"Action, Mystery, Romance, Supernatural, Thriller",0
+Stranger: Mukou Hadan,0.18663288695861985,"Action, Adventure, Historical, Samurai",0
+Kimi ni Todoke,0.1850645433707323,"Romance, School, Shoujo, Slice of Life",0
+Baccano! Specials,0.1837374834117505,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",0
+Sword Art Online,0.18120400530823982,"Action, Adventure, Fantasy, Game, Romance",0
+Ghost in the Shell: Stand Alone Complex 2nd GIG,0.17987694534925805,"Action, Mecha, Military, Mystery, Police, Sci-Fi, Seinen",0
+Shingeki no Kyojin,0.6715151515151515,"Action, Drama, Fantasy, Shounen, Super Power",1
+Death Note,0.5783682983682984,"Mystery, Police, Psychological, Supernatural, Thriller",1
+No Game No Life,0.5731468531468531,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",1
+Angel Beats!,0.5708158508158508,"Action, Comedy, Drama, School, Supernatural",1
+Sword Art Online,0.5684848484848485,"Action, Adventure, Fantasy, Game, Romance",1
+Steins;Gate,0.5593473193473193,"Sci-Fi, Thriller",1
+Fullmetal Alchemist: Brotherhood,0.5452680652680653,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",1
+Code Geass: Hangyaku no Lelouch,0.512074592074592,"Action, Mecha, Military, School, Sci-Fi, Super Power",1
+Code Geass: Hangyaku no Lelouch R2,0.491002331002331,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",1
+Toradora!,0.48568764568764566,"Comedy, Romance, School, Slice of Life",1
+Mirai Nikki (TV),0.46806526806526805,"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",1
+One Punch Man,0.4461538461538462,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",1
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,0.4141724941724942,"Drama, Slice of Life, Supernatural",1
+Clannad: After Story,0.4068997668997669,"Drama, Fantasy, Romance, Slice of Life, Supernatural",1
+Tokyo Ghoul,0.3973892773892774,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",1
+Kiseijuu: Sei no Kakuritsu,0.38965034965034967,"Action, Drama, Horror, Psychological, Sci-Fi, Seinen",1
+Noragami,0.3788344988344988,"Action, Adventure, Shounen, Supernatural",1
+Clannad,0.36876456876456876,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",1
+Psycho-Pass,0.3683916083916084,"Action, Police, Psychological, Sci-Fi",1
+Fate/Zero,0.36596736596736595,"Action, Fantasy, Supernatural",1
+Sakurasou no Pet na Kanojo,0.3654079254079254,"Comedy, Drama, Romance, School, Slice of Life",1
+Shigatsu wa Kimi no Uso,0.35114219114219114,"Drama, Music, Romance, School, Shounen",1
+Tengen Toppa Gurren Lagann,0.34321678321678323,"Action, Adventure, Comedy, Mecha, Sci-Fi",1
+Fate/Zero 2nd Season,0.34321678321678323,"Action, Fantasy, Supernatural, Thriller",1
+Durarara!!,0.34237762237762237,"Action, Mystery, Supernatural",1
+Hataraku Maou-sama!,0.33734265734265734,"Comedy, Demons, Fantasy, Romance, Shounen",1
+Bakemonogatari,0.332027972027972,"Mystery, Romance, Supernatural, Vampire",1
+Ao no Exorcist,0.32904428904428906,"Action, Demons, Fantasy, Shounen, Supernatural",1
+Boku dake ga Inai Machi,0.3271794871794872,"Mystery, Psychological, Seinen, Supernatural",1
+Another,0.32400932400932403,"Horror, Mystery, School, Supernatural, Thriller",1
+Kill la Kill,0.3202797202797203,"Action, Comedy, School, Super Power",1
+Guilty Crown,0.3133799533799534,"Action, Drama, Sci-Fi, Super Power",1
+Death Parade,0.304988344988345,"Drama, Game, Mystery, Psychological, Thriller",1
+Log Horizon,0.3036829836829837,"Action, Adventure, Fantasy, Game, Magic, Shounen",1
+Akame ga Kill!,0.3005128205128205,"Action, Adventure, Fantasy",1
+Chuunibyou demo Koi ga Shitai!,0.2994871794871795,"Comedy, Drama, Romance, School, Slice of Life",1
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,0.2982750582750583,"Comedy, Drama, Romance, School",1
+Fairy Tail,0.2951981351981352,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",1
+Mahou Shoujo Madoka★Magica,0.2910955710955711,"Drama, Magic, Psychological, Thriller",1
+Kuroko no Basket,0.29016317016317017,"Comedy, School, Shounen, Sports",1
+Shokugeki no Souma,0.28923076923076924,"Ecchi, School, Shounen",1
+Zankyou no Terror,0.27897435897435896,"Psychological, Thriller",1
+Hunter x Hunter (2011),0.27813519813519816,"Action, Adventure, Shounen, Super Power",1
+Elfen Lied,0.2773892773892774,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",1
+Sen to Chihiro no Kamikakushi,0.2742191142191142,"Adventure, Drama, Supernatural",1
+Nanatsu no Taizai,0.2714219114219114,"Action, Adventure, Ecchi, Fantasy, Shounen, Supernatural",1
+Nisekoi,0.2662937062937063,"Comedy, Harem, Romance, School, Shounen",1
+Highschool of the Dead,0.26489510489510487,"Action, Ecchi, Horror, Supernatural",1
+Fate/stay night: Unlimited Blade Works,0.2565034965034965,"Action, Fantasy, Magic, Shounen, Supernatural",1
+Magi: The Labyrinth of Magic,0.25361305361305364,"Action, Adventure, Fantasy, Magic, Shounen",1
+Kaichou wa Maid-sama!,0.25286713286713286,"Comedy, Romance, School, Shoujo",1
+Sword Art Online II,0.2525874125874126,"Action, Adventure, Fantasy, Game, Romance",1
+Fullmetal Alchemist,0.25184149184149185,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",1
+Soul Eater,0.2501631701631702,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",1
+Kuroko no Basket 2nd Season,0.2497902097902098,"Comedy, School, Shounen, Sports",1
+Hyouka,0.24652680652680653,"Mystery, School, Slice of Life",1
+Naruto,0.2456876456876457,"Action, Comedy, Martial Arts, Shounen, Super Power",1
+High School DxD,0.24093240093240093,"Comedy, Demons, Ecchi, Harem, Romance, School",1
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,0.23347319347319348,"Action, Adventure, Comedy, Fantasy, Romance",1
+Nisemonogatari,0.23272727272727273,"Comedy, Mystery, Supernatural",1
+Kyoukai no Kanata,0.2302097902097902,"Fantasy, Slice of Life, Supernatural",1
+Noragami Aragoto,0.22937062937062938,"Action, Adventure, Shounen, Supernatural",1
+Btooom!,0.22806526806526806,"Action, Psychological, Sci-Fi, Seinen",1
+Magi: The Kingdom of Magic,0.22806526806526806,"Action, Adventure, Fantasy, Magic, Shounen",1
+Gekkan Shoujo Nozaki-kun,0.2276923076923077,"Comedy, Romance, School",1
+Haikyuu!!,0.22675990675990676,"Comedy, Drama, School, Shounen, Sports",1
+Re:Zero kara Hajimeru Isekai Seikatsu,0.22675990675990676,"Drama, Fantasy, Psychological, Thriller",1
+Kami nomi zo Shiru Sekai,0.21958041958041957,"Comedy, Harem, Romance, Shounen, Supernatural",1
+Kokoro Connect,0.21958041958041957,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",1
+Bleach,0.21473193473193472,"Action, Comedy, Shounen, Super Power, Supernatural",1
+Fate/stay night: Unlimited Blade Works 2nd Season,0.2123076923076923,"Action, Fantasy, Magic, Shounen, Supernatural",1
+Tokyo Ghoul √A,0.2097902097902098,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",1
+Deadman Wonderland,0.20904428904428904,"Action, Horror, Sci-Fi",1
+Charlotte,0.20643356643356645,"Drama, School, Super Power",1
+Steins;Gate Movie: Fuka Ryouiki no Déjà vu,0.20643356643356645,"Sci-Fi, Thriller",1
+Dragon Ball Z,0.20494172494172494,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",1
+Darker than Black: Kuro no Keiyakusha,0.20363636363636364,"Action, Mystery, Sci-Fi, Super Power",1
+High School DxD New,0.20195804195804196,"Action, Comedy, Demons, Ecchi, Harem, Romance, School",1
+Kami nomi zo Shiru Sekai II,0.20083916083916084,"Comedy, Harem, Romance, Shounen, Supernatural",1
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,0.19655011655011656,"Comedy, Drama, Romance, School",1
+Golden Time,0.19505827505827505,"Comedy, Romance, Seinen",1
+Tonari no Kaibutsu-kun,0.19403263403263404,"Comedy, Romance, School, Shoujo, Slice of Life",1
+Boku no Hero Academia,0.19403263403263404,"Action, Comedy, School, Shounen, Super Power",1
+Boku wa Tomodachi ga Sukunai,0.19347319347319347,"Comedy, Ecchi, Harem, Romance, School, Seinen, Slice of Life",1
+Zetsuen no Tempest,0.19244755244755246,"Action, Drama, Fantasy, Magic, Mystery, Psychological, Shounen",1
+Accel World,0.191981351981352,"Action, Game, Romance, School, Sci-Fi",1
+Steins;Gate: Oukoubakko no Poriomania,0.1891841491841492,"Sci-Fi, Thriller",1
+Barakamon,0.1890909090909091,"Comedy, Slice of Life",1
+Monogatari Series: Second Season,0.18806526806526808,"Comedy, Mystery, Romance, Supernatural, Vampire",1
+Ookami to Koushinryou,0.1847086247086247,"Adventure, Fantasy, Historical, Romance",1
+Kore wa Zombie Desu ka?,0.18312354312354312,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",1
+Bakuman.,0.18144522144522143,"Comedy, Romance, Shounen",1
+Boku wa Tomodachi ga Sukunai Next,0.18023310023310024,"Comedy, Harem, Romance, School, Seinen, Slice of Life",1
+Baka to Test to Shoukanjuu,0.17986013986013985,"Comedy, Romance, School, Super Power",1
+Suzumiya Haruhi no Shoushitsu,0.1795804195804196,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",1
+Ansatsu Kyoushitsu (TV),0.17939393939393938,"Action, Comedy, School, Shounen",1
+Ore no Imouto ga Konnani Kawaii Wake ga Nai,0.17836829836829837,"Comedy, Seinen, Slice of Life",1
+Suzumiya Haruhi no Yuuutsu,0.17771561771561772,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",1
+Danshi Koukousei no Nichijou,0.17585081585081586,"Comedy, School, Shounen, Slice of Life",1
+Overlord,0.1751981351981352,"Action, Adventure, Fantasy, Game, Magic, Supernatural",1
+Death Note,0.2876735205093414,"Mystery, Police, Psychological, Supernatural, Thriller",2
+Shingeki no Kyojin,0.1687506523327419,"Action, Drama, Fantasy, Shounen, Super Power",2
+Fullmetal Alchemist: Brotherhood,0.16365723828410395,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",2
+Code Geass: Hangyaku no Lelouch,0.1555370003131197,"Action, Mecha, Military, School, Sci-Fi, Super Power",2
+Sen to Chihiro no Kamikakushi,0.15029746373029956,"Adventure, Drama, Supernatural",2
+Sword Art Online,0.13825279198413526,"Action, Adventure, Fantasy, Game, Romance",2
+Fullmetal Alchemist,0.1363531990397662,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",2
+Code Geass: Hangyaku no Lelouch R2,0.13253313850328777,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",2
+Angel Beats!,0.12800333994363844,"Action, Comedy, Drama, School, Supernatural",2
+Elfen Lied,0.12478864419162927,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",2
+Ouran Koukou Host Club,0.12316042166788435,"Comedy, Harem, Romance, School, Shoujo",2
+Naruto,0.11733639494833524,"Action, Comedy, Martial Arts, Shounen, Super Power",2
+Howl no Ugoku Shiro,0.10767143304456737,"Adventure, Drama, Fantasy, Romance",2
+Toradora!,0.10074104999478134,"Comedy, Romance, School, Slice of Life",2
+Tengen Toppa Gurren Lagann,0.09543888946874021,"Action, Adventure, Comedy, Mecha, Sci-Fi",2
+Clannad,0.09495877257071286,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",2
+Steins;Gate,0.09270431061475838,"Sci-Fi, Thriller",2
+Dragon Ball Z,0.09141008245485857,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",2
+Clannad: After Story,0.09105521344327315,"Drama, Fantasy, Romance, Slice of Life, Supernatural",2
+Cowboy Bebop,0.08807013881640748,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",2
+Mononoke Hime,0.08804926416866715,"Action, Adventure, Fantasy",2
+Mirai Nikki (TV),0.08804926416866715,"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",2
+Kuroshitsuji,0.08683853459972862,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",2
+Soul Eater,0.08600354869011585,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",2
+Ao no Exorcist,0.07924016282225238,"Action, Demons, Fantasy, Shounen, Supernatural",2
+Neon Genesis Evangelion,0.07706919945725915,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",2
+Durarara!!,0.07318651497755975,"Action, Mystery, Supernatural",2
+Mahou Shoujo Madoka★Magica,0.07289426990919529,"Drama, Magic, Psychological, Thriller",2
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,0.07176703893121804,"Drama, Slice of Life, Supernatural",2
+Another,0.07126604738545037,"Horror, Mystery, School, Supernatural, Thriller",2
+Kaichou wa Maid-sama!,0.06907420937271684,"Comedy, Romance, School, Shoujo",2
+Samurai Champloo,0.06636050516647532,"Action, Adventure, Comedy, Historical, Samurai, Shounen",2
+Dragon Ball,0.06604738545037052,"Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",2
+Tonari no Totoro,0.0654837699613819,"Adventure, Comedy, Supernatural",2
+Tokyo Ghoul,0.06446091222210625,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",2
+Suzumiya Haruhi no Yuuutsu,0.06425216574470306,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",2
+Highschool of the Dead,0.06306231082350486,"Action, Ecchi, Horror, Supernatural",2
+Vampire Knight,0.06210207702745016,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",2
+No Game No Life,0.06039035591274397,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",2
+Bleach,0.057008662978812234,"Action, Comedy, Shounen, Super Power, Supernatural",2
+Fairy Tail,0.0554639390460286,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",2
+Darker than Black: Kuro no Keiyakusha,0.05373134328358209,"Action, Mystery, Sci-Fi, Super Power",2
+Fruits Basket,0.05310510385137251,"Comedy, Drama, Fantasy, Romance, Shoujo, Slice of Life",2
+K-On!,0.05293810666944995,"Comedy, Music, School, Slice of Life",2
+Higurashi no Naku Koro ni,0.052290992589500054,"Horror, Mystery, Psychological, Supernatural, Thriller",2
+Kuroko no Basket,0.049953032042584285,"Comedy, School, Shounen, Sports",2
+FLCL,0.04970253626970045,"Action, Comedy, Dementia, Mecha, Parody, Sci-Fi",2
+Hellsing,0.048157812336916815,"Action, Horror, Seinen, Supernatural, Vampire",2
+Trigun,0.047468948961486276,"Action, Comedy, Sci-Fi",2
+Psycho-Pass,0.04686358417701701,"Action, Police, Psychological, Sci-Fi",2
+Toki wo Kakeru Shoujo,0.0466339630518735,"Adventure, Drama, Romance, Sci-Fi",2
+Kill la Kill,0.046216470097067114,"Action, Comedy, School, Super Power",2
+Vampire Knight Guilty,0.04617472080158647,"Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",2
+Byousoku 5 Centimeter,0.04596597432418328,"Drama, Romance, Slice of Life",2
+One Punch Man,0.04513098841457051,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",2
+Lovely★Complex,0.044421250391399644,"Comedy, Romance, Shoujo",2
+InuYasha,0.04302264899279824,"Action, Adventure, Comedy, Demons, Fantasy, Magic, Romance, Shounen, Supernatural",2
+Great Teacher Onizuka,0.04298089969731761,"Comedy, Drama, School, Shounen, Slice of Life",2
+Bakemonogatari,0.04268865462895314,"Mystery, Romance, Supernatural, Vampire",2
+Kimi ni Todoke,0.04239640956058866,"Romance, School, Shoujo, Slice of Life",2
+Lucky☆Star,0.04197891660578228,"Comedy, Parody, School, Slice of Life",2
+Claymore,0.041895418014821,"Action, Adventure, Demons, Fantasy, Shounen, Super Power, Supernatural",2
+Deadman Wonderland,0.041310927878092055,"Action, Horror, Sci-Fi",2
+Hunter x Hunter (2011),0.040914309571025986,"Action, Adventure, Shounen, Super Power",2
+Noragami,0.03972445464982778,"Action, Adventure, Shounen, Supernatural",2
+Fate/Zero,0.03951570817242459,"Action, Fantasy, Supernatural",2
+Final Fantasy VII: Advent Children,0.039411334933722994,"Action, Fantasy, Super Power",2
+Kuroshitsuji II,0.039411334933722994,"Action, Comedy, Demons, Fantasy, Shounen, Supernatural",2
+Akira,0.03903559127439724,"Action, Adventure, Horror, Military, Sci-Fi, Supernatural",2
+Rurouni Kenshin: Meiji Kenkaku Romantan,0.038972967331176285,"Action, Adventure, Comedy, Historical, Romance, Samurai",2
+Junjou Romantica,0.0386598476150715,"Comedy, Drama, Romance, Shounen Ai",2
+Black Lagoon,0.038534599728629576,"Action, Seinen",2
+Baccano!,0.038534599728629576,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",2
+Chobits,0.038346727898966704,"Comedy, Drama, Ecchi, Romance, Sci-Fi, Seinen",2
+High School DxD,0.037657864523536165,"Comedy, Demons, Ecchi, Harem, Romance, School",2
+D.Gray-man,0.037282120864210413,"Action, Adventure, Comedy, Shounen",2
+Cardcaptor Sakura,0.037282120864210413,"Adventure, Comedy, Drama, Fantasy, Magic, Romance, School, Shoujo",2
+Fullmetal Alchemist: The Conqueror of Shamballa,0.03698987579584594,"Comedy, Drama, Fantasy, Historical, Military, Shounen",2
+Neon Genesis Evangelion: The End of Evangelion,0.03646800960233796,"Dementia, Drama, Mecha, Psychological, Sci-Fi",2
+Hotaru no Haka,0.03617576453397349,"Drama, Historical",2
+Nana,0.03584177017012838,"Comedy, Drama, Music, Romance, Shoujo, Slice of Life",2
+Fate/stay night,0.03582089552238806,"Action, Fantasy, Magic, Romance, Supernatural",2
+Guilty Crown,0.03513203214695752,"Action, Drama, Sci-Fi, Super Power",2
+Digimon Adventure,0.0350067842605156,"Action, Adventure, Comedy, Fantasy, Kids",2
+Yuu☆Yuu☆Hakusho,0.03490241102181401,"Action, Comedy, Demons, Fantasy, Martial Arts, School, Shounen",2
+Zero no Tsukaima,0.03486066172633337,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",2
+Higurashi no Naku Koro ni Kai,0.03448491806700762,"Mystery, Psychological, Supernatural, Thriller",2
+Free!,0.03431792088508506,"Comedy, School, Slice of Life, Sports",2
+Kiseijuu: Sei no Kakuritsu,0.034297046237344746,"Action, Drama, Horror, Psychological, Sci-Fi, Seinen",2
+Sakurasou no Pet na Kanojo,0.03271057300908047,"Comedy, Drama, Romance, School, Slice of Life",2
+Fate/Zero 2nd Season,0.03237657864523536,"Action, Fantasy, Supernatural, Thriller",2
+Ghost in the Shell,0.03233482934975472,"Action, Mecha, Police, Psychological, Sci-Fi, Seinen",2
+Ookami Kodomo no Ame to Yuki,0.03164596597432418,"Fantasy, Slice of Life",2
+Majo no Takkyuubin,0.031625091326583865,"Adventure, Comedy, Drama, Fantasy, Magic, Romance",2
+Chuunibyou demo Koi ga Shitai!,0.030852729360192045,"Comedy, Drama, Romance, School, Slice of Life",2
+Ookami to Koushinryou,0.03076923076923077,"Adventure, Fantasy, Historical, Romance",2
+Kuroko no Basket 2nd Season,0.03039348710990502,"Comedy, School, Shounen, Sports",2
+Junjou Romantica 2,0.030184740632501827,"Comedy, Drama, Romance, Shounen Ai",2
+NHK ni Youkoso!,0.029975994155098634,"Comedy, Drama, Psychological, Romance",2
+Akame ga Kill!,0.029871620916397036,"Action, Adventure, Fantasy",2
+Angel Beats!,0.8008205893323387,"Action, Comedy, Drama, School, Supernatural",3
+Steins;Gate,0.794106676613204,"Sci-Fi, Thriller",3
+Toradora!,0.7873927638940694,"Comedy, Romance, School, Slice of Life",3
+Code Geass: Hangyaku no Lelouch,0.7799328608728087,"Action, Mecha, Military, School, Sci-Fi, Super Power",3
+Shingeki no Kyojin,0.7549421857515852,"Action, Drama, Fantasy, Shounen, Super Power",3
+Code Geass: Hangyaku no Lelouch R2,0.7504662439388288,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",3
+No Game No Life,0.7441253263707572,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",3
+Bakemonogatari,0.7273405445729205,"Mystery, Romance, Supernatural, Vampire",3
+Fullmetal Alchemist: Brotherhood,0.7269675494218575,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",3
+Death Note,0.7172696754942186,"Mystery, Police, Psychological, Supernatural, Thriller",3
+Sword Art Online,0.6863110779559866,"Action, Adventure, Fantasy, Game, Romance",3
+Durarara!!,0.6833271167474823,"Action, Mystery, Supernatural",3
+Clannad,0.6792241700857888,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",3
+Clannad: After Story,0.6792241700857888,"Drama, Fantasy, Romance, Slice of Life, Supernatural",3
+Fate/Zero,0.6687803058560239,"Action, Fantasy, Supernatural",3
+Hataraku Maou-sama!,0.660574412532637,"Comedy, Demons, Fantasy, Romance, Shounen",3
+Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,0.6553524804177546,"Drama, Slice of Life, Supernatural",3
+Tengen Toppa Gurren Lagann,0.6464005967922417,"Action, Adventure, Comedy, Mecha, Sci-Fi",3
+One Punch Man,0.6411786646773592,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",3
+Fate/Zero 2nd Season,0.6367027228646027,"Action, Fantasy, Supernatural, Thriller",3
+Psycho-Pass,0.6311077955986573,"Action, Police, Psychological, Sci-Fi",3
+Mirai Nikki (TV),0.6225289071242074,"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",3
+Yahari Ore no Seishun Love Comedy wa Machigatteiru.,0.6072361059306229,"Comedy, Drama, Romance, School",3
+Chuunibyou demo Koi ga Shitai!,0.6049981350242447,"Comedy, Drama, Romance, School, Slice of Life",3
+Log Horizon,0.5997762029093622,"Action, Adventure, Fantasy, Game, Magic, Shounen",3
+Suzumiya Haruhi no Yuuutsu,0.5994032077582991,"Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",3
+Nisemonogatari,0.5945542707944796,"Comedy, Mystery, Supernatural",3
+Sakurasou no Pet na Kanojo,0.5889593435285341,"Comedy, Drama, Romance, School, Slice of Life",3
+Kami nomi zo Shiru Sekai,0.5885863483774711,"Comedy, Harem, Romance, Shounen, Supernatural",3
+Darker than Black: Kuro no Keiyakusha,0.5859753823200299,"Action, Mystery, Sci-Fi, Super Power",3
+Kami nomi zo Shiru Sekai II,0.5755315180902648,"Comedy, Harem, Romance, Shounen, Supernatural",3
+Hyouka,0.5688176053711301,"Mystery, School, Slice of Life",3
+Kiseijuu: Sei no Kakuritsu,0.5669526296158149,"Action, Drama, Horror, Psychological, Sci-Fi, Seinen",3
+Mahou Shoujo Madoka★Magica,0.5654606490115629,"Drama, Magic, Psychological, Thriller",3
+Noragami,0.5617306975009325,"Action, Adventure, Shounen, Supernatural",3
+Toaru Majutsu no Index,0.5557627750839239,"Action, Magic, Sci-Fi, Super Power",3
+Ookami to Koushinryou,0.5516598284222305,"Adventure, Fantasy, Historical, Romance",3
+Suzumiya Haruhi no Shoushitsu,0.5378590078328982,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",3
+Another,0.5240581872435658,"Horror, Mystery, School, Supernatural, Thriller",3
+Shigatsu wa Kimi no Uso,0.5236851920925027,"Drama, Music, Romance, School, Shounen",3
+Elfen Lied,0.5229392017903767,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",3
+Fullmetal Alchemist,0.5177172696754943,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",3
+Kill la Kill,0.5177172696754943,"Action, Comedy, School, Super Power",3
+Boku dake ga Inai Machi,0.5124953375606117,"Mystery, Psychological, Seinen, Supernatural",3
+Boku wa Tomodachi ga Sukunai,0.5124953375606117,"Comedy, Ecchi, Harem, Romance, School, Seinen, Slice of Life",3
+Baka to Test to Shoukanjuu,0.5083923908989183,"Comedy, Romance, School, Super Power",3
+Ore no Imouto ga Konnani Kawaii Wake ga Nai,0.5024244684819097,"Comedy, Seinen, Slice of Life",3
+Fate/stay night: Unlimited Blade Works,0.5013054830287206,"Action, Fantasy, Magic, Shounen, Supernatural",3
+Gekkan Shoujo Nozaki-kun,0.5013054830287206,"Comedy, Romance, School",3
+Highschool of the Dead,0.49869451697127937,"Action, Ecchi, Horror, Supernatural",3
+Nisekoi,0.49869451697127937,"Comedy, Harem, Romance, School, Shounen",3
+Soul Eater,0.49645654606490114,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",3
+Ao no Exorcist,0.49384558000745993,"Action, Demons, Fantasy, Shounen, Supernatural",3
+Guilty Crown,0.49384558000745993,"Action, Drama, Sci-Fi, Super Power",3
+Kokoro Connect,0.4927265945542708,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",3
+Kaichou wa Maid-sama!,0.4927265945542708,"Comedy, Romance, School, Shoujo",3
+Shokugeki no Souma,0.4908616187989556,"Ecchi, School, Shounen",3
+Black Lagoon,0.48638567698619917,"Action, Seinen",3
+Monogatari Series: Second Season,0.48638567698619917,"Comedy, Mystery, Romance, Supernatural, Vampire",3
+Toaru Majutsu no Index II,0.4856396866840731,"Action, Magic, Sci-Fi, Super Power",3
+Ookami to Koushinryou II,0.47706079820962327,"Adventure, Fantasy, Historical, Romance",3
+Kami nomi zo Shiru Sekai: Megami-hen,0.47370384185005593,"Comedy, Harem, Romance, Shounen, Supernatural",3
+Kore wa Zombie Desu ka?,0.4710928757926147,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",3
+Magi: The Labyrinth of Magic,0.46848190973517345,"Action, Adventure, Fantasy, Magic, Shounen",3
+Death Parade,0.46848190973517345,"Drama, Game, Mystery, Psychological, Thriller",3
+Barakamon,0.46736292428198434,"Comedy, Slice of Life",3
+Zetsuen no Tempest,0.4662439388287952,"Action, Drama, Fantasy, Magic, Mystery, Psychological, Shounen",3
+Sen to Chihiro no Kamikakushi,0.4658709436777322,"Adventure, Drama, Supernatural",3
+Boku wa Tomodachi ga Sukunai Next,0.4658709436777322,"Comedy, Harem, Romance, School, Seinen, Slice of Life",3
+Zankyou no Terror,0.464005967922417,"Psychological, Thriller",3
+Usagi Drop,0.4628869824692279,"Josei, Slice of Life",3
+Bakuman.,0.46139500186497573,"Comedy, Romance, Shounen",3
+Nekomonogatari: Kuro,0.4606490115628497,"Comedy, Romance, Supernatural",3
+Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,0.4587840358075345,"Comedy, Drama, Romance, School",3
+Baccano!,0.4584110406564715,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",3
+Tokyo Ghoul,0.45318910854158895,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",3
+K-On!,0.4505781424841477,"Comedy, Music, School, Slice of Life",3
+Tonari no Kaibutsu-kun,0.45020514733308464,"Comedy, Romance, School, Shoujo, Slice of Life",3
+Black Lagoon: The Second Barrage,0.4494591570309586,"Action, Seinen",3
+Higashi no Eden,0.44871316672883255,"Action, Comedy, Drama, Mystery, Romance, Sci-Fi, Thriller",3
+Fate/stay night,0.4483401715777695,"Action, Fantasy, Magic, Romance, Supernatural",3
+Danshi Koukousei no Nichijou,0.44796717642670647,"Comedy, School, Shounen, Slice of Life",3
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,0.4472211861245804,"Action, Adventure, Comedy, Fantasy, Romance",3
+Kyoukai no Kanata,0.44684819097351736,"Fantasy, Slice of Life, Supernatural",3
+Toki wo Kakeru Shoujo,0.4464751958224543,"Adventure, Drama, Romance, Sci-Fi",3
+Steins;Gate: Oukoubakko no Poriomania,0.443118239462887,"Sci-Fi, Thriller",3
+Nanatsu no Taizai,0.44013427825438267,"Action, Adventure, Ecchi, Fantasy, Shounen, Supernatural",3
+Summer Wars,0.43976128310331963,"Comedy, Sci-Fi",3
+Zero no Tsukaima,0.43976128310331963,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",3
+Gosick,0.4393882879522566,"Drama, Historical, Mystery, Romance",3
+Btooom!,0.43640432674375235,"Action, Psychological, Sci-Fi, Seinen",3
+Shakugan no Shana,0.4360313315926893,"Action, Drama, Fantasy, Romance, School, Supernatural",3
+Baka to Test to Shoukanjuu Ni!,0.43453935098843716,"Comedy, Romance, School, Super Power",3
+"Gate: Jieitai Kanochi nite, Kaku Tatakaeri",0.43453935098843716,"Action, Adventure, Fantasy, Military",3
+Higurashi no Naku Koro ni,0.4308093994778068,"Horror, Mystery, Psychological, Supernatural, Thriller",3
+Fate/stay night: Unlimited Blade Works 2nd Season,0.4308093994778068,"Action, Fantasy, Magic, Shounen, Supernatural",3
+Mahouka Koukou no Rettousei,0.4281984334203655,"Magic, Romance, School, Sci-Fi, Supernatural",3
+Re:Zero kara Hajimeru Isekai Seikatsu,0.4281984334203655,"Drama, Fantasy, Psychological, Thriller",3
+Neon Genesis Evangelion,0.4263334576650504,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",3
+Working!!,0.42596046251398734,"Comedy, Slice of Life",3
